@@ -3,7 +3,7 @@
 - Testing Jira KAN-7 GitHub integration.
 - Automation **TEST**
 
-- ## SW-10 - NAS Restoration Bug Fix (Demo)
+## SW-10 - NAS Restoration Bug Fix (Demo)
 
 Added improved error handling and retry guidance
 for NAS connectivity failures during restoration.
